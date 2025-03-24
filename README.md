@@ -14,8 +14,9 @@
 ✔ **Dynamic Filters** – Allows filtering by Date, Country, Payment Status, and Payment Method.  
 
 ## 🛠 Tech Stack:  
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 - ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge)  
 
 ## 📌 Live Demo  
