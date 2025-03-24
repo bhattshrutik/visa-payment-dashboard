@@ -13,11 +13,10 @@
 ✔ **Payment Transactions Table** – Lists detailed transaction records for better financial tracking.  
 ✔ **Dynamic Filters** – Allows filtering by Date, Country, Payment Status, and Payment Method.  
 
-## 🛠 Tools Used  
-
-✅ **Power BI** – Data visualization and analysis  
-✅ **SQL** – Data extraction and processing  
-✅ **Python** – Data cleaning and transformation  
+## 🛠 Tech Stack:  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+- ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge)  
 
 ## 📌 Live Demo  
 
