@@ -21,7 +21,7 @@
 
 ## 📌 Live Demo  
 
-🔗 **[View Dashboard](https://encr.pw/visa-payment-dashboard)**  
+🔗 **[View Dashboard](http://tiny.cc/visa-payment-dashboard)**  
 
 
 ## 📬 Connect with Me  
